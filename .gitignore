@@ -1,0 +1,7 @@
+bazel-bazel-roboticchallenge
+bazel-roboticchallenge
+bazel-bin/
+bazel-out/
+external/
+bazel-testlogs/
+.vscode
